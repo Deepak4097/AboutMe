@@ -19,10 +19,10 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Designed Hybrid Automation framework for E-commerce Application Now extending Testcase **
-- 🌱 I'm currently learning: ** 📖 Exploring API Testing**
-- 💬 Ask me about: **💡 Selenium, Java , Cucumber TestNG,Rest Assured **
-- ⚡ Fun fact: **🎢 Lazy So love to automate **
+- 💼 I'm currently working on: 💻 Designed Hybrid Automation framework for E-commerce Application Now extending Testcase
+- 🌱 I'm currently learning: 📖 Exploring API Testing
+- 💬 Ask me about: 💡 Selenium, Java , Cucumber TestNG,Rest Assured
+- ⚡ Fun fact: 🎢 Lazy So love to automate
 
  **<h3 align="center">Skills</h3>**
 
